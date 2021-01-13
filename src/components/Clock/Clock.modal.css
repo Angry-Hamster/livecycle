@@ -1,0 +1,7 @@
+.clock{
+  height: 20px;
+  width: min-content;
+
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.4);
+}
